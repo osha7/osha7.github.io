@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Day 2, Hour 15"
-date:       2020-04-21 16:39:21 +0000
+date:       2020-04-21 12:39:22 -0400
 permalink:  day_2_hour_15
 ---
 
